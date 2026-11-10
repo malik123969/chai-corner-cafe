@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - Desi Dhaba</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Desi Dhaba</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="menu.html">Menu</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Our Gallery</h2>
+        <p>Welcome to Desi Dhaba! Explore our delicious food.</p>
+
+        <div class="gallery">
+            <img src="images/chai.jfif" alt="Desi Chai">
+            <img src="images/food.jfif" alt="Dhaba Food">
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 Desi Dhaba</p>
+    </footer>
+
+</body>
+</html>
