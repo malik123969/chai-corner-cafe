@@ -1,0 +1,7 @@
+## Prompt 2: Gallery Page
+
+Create a gallery.html page for my Chai Corner Cafe website. Use the same navigation bar, footer, colours, fonts and CSS file as my index.html page.
+
+Add a beautiful image gallery featuring Desi chai, paratha, chicken roll and samosa. Make the layout attractive, simple and beginner-friendly. Use only HTML, CSS and JavaScript.
+
+Ensure that all navigation links work correctly.

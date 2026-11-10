@@ -1,0 +1,13 @@
+## Prompt 3: Menu Page
+
+Create a menu.html page for my Chai Corner Cafe website. Use the same navigation bar, footer, colours, fonts and style.css file as my home page.
+
+Display these menu items:
+1. Desi Chai
+2. Paratha
+3. Chicken Roll
+4. Samosa
+
+Give each item a short description and price. Add a Place Order button using JavaScript window.alert().
+
+Make sure all navigation links work correctly and the page matches my existing website design.
